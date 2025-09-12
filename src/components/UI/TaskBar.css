@@ -1,0 +1,21 @@
+*, ::after, ::before {
+    padding: 0; 
+    margin: 0; 
+    box-sizing: border-box;
+}
+
+.TaskBarContainer {
+    display: flex;
+    width: 100%; 
+    height: 100%; 
+    background-color: rgb(122, 132, 188); 
+    padding: 5px; 
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px; 
+}
+
+.AppIcon {
+    height: 40px; 
+    width: 40px; 
+}
