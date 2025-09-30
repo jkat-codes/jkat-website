@@ -29,8 +29,38 @@ export function Notes({position, onMouseDown}) {
                 <img src={maximizeIcon} alt="" className="maximizeIcon" />
             </div>
             <div className="NotesMainContent">
-                <span>Welcome! My name is Jasper Katalevsky. I am an aspiring financial technology engineer.</span>
-                <span>I am currently a Sophomore Computer Science and Engineering student at Bucknell University</span>
+                <h2>Welcome! My name is Jasper.</h2>
+                <h3>I am currently a Computer Science and Engineering student at Bucknell University.</h3>
+                <br />
+                <br />
+                <h4>Technical Skills: </h4>
+                <h5>Python, Java, SwiftUI, React, JavaScript, HTML/CSS, Node.js, Electron.js, Flask, Git, Bash, Zsh, Vim, VS Code, Visual Studio, pandas, NumPy, Matplotlib, Openpyxl, Requests, ExcelJS, Selenium Webdriver, Tkinter, PyQT, Micorsoft Excel, Supabase, PostgreSQL, Jupyter Notebook, Google Colab</h5>
+                <br />
+                <br />
+                <h4>What am I working on?</h4>
+                <ul>
+                    <li>
+                        <h5>Options Risk Management Platform (Tauri/React)</h5>
+                    </li>
+                    <li>
+                        <h5>Market Analysis Platform (Javascript/Python)</h5>
+                    </li>
+                </ul>
+                <br />
+                <br />
+                <h4>What courses am I taking?</h4>
+                <ul>
+                    <li>
+                        <h5>Software Engineering & Design</h5>
+                    </li>
+                    <li>
+                        <h5>Spreadsheet Modeling & Data Analysis</h5>
+                    </li>
+                    <li>
+                        <h5>Calculus III</h5>
+                    </li>
+                </ul>
+
             </div>
         </div>
     )
