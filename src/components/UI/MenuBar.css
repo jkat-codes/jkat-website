@@ -1,0 +1,36 @@
+*, ::after, ::before {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+.MenuBarContainer {
+    width: 100%; 
+    height: 100%; 
+    display: flex;
+    justify-content: start; 
+    gap: 10px; 
+    align-items: center;
+    background-color: rgb(192, 223, 243);
+}
+
+.AppleIcon {
+    height: 13px; 
+    width: 13px; 
+    margin-left: 10px; 
+}
+
+.MenuHeader {
+    font-family: Helvetica;
+    font-style: oblique;
+    font-size: 10px; 
+    line-height: 15px; 
+    height: 100%; 
+    padding: 1px 3px; 
+    color: black; 
+}
+
+.MenuHeader.active {
+    background: rgb(102, 132, 220); 
+    color: white; 
+}

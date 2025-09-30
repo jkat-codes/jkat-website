@@ -1,0 +1,49 @@
+*, ::after, ::before {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+.NotesContainer {
+    width: 661px; 
+    height: 441px; 
+    background-color: rgb(54, 54, 55);
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+    resize: both; 
+    overflow: auto; 
+}
+
+.titlebar {
+    width: 100%; 
+    height: 15px; 
+    max-height: 15px;
+    margin-bottom: auto; 
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    background-color: white;
+    display: flex; 
+    align-items: center;
+    gap: 5px; 
+}
+
+.closeIcon {
+    width: 11px; 
+    height: 11px; 
+    margin-left: 2px;
+}
+
+.minimizeIcon, .maximizeIcon {
+    width: 11px; 
+    height: 11px; 
+}
+
+.NotesMainContent {
+    width: 100%; 
+    height: 100%; 
+    padding: 10px; 
+    color: white; 
+    font-family: helvetica;
+}

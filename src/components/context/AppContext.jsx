@@ -4,6 +4,9 @@ const AppContext = createContext();
 
 export function AppProvider({children}) {
     const [activeSection, setActiveSection] = useState(0); 
+    const [showNotesModal, setShowNotesModal] = useState(false); 
+    const [showContactsModal, setShowContactsModal] = useState(false); 
+    const [showProjectsModal, setShowProjectsModal] = useState(false); 
     const totalSections = 4; 
 
     const scrollToSection = (index) => {
@@ -22,6 +25,12 @@ export function AppProvider({children}) {
             setActiveSection, 
             scrollToSection, 
             totalSections, 
+            showNotesModal, 
+            setShowNotesModal, 
+            showContactsModal, 
+            setShowContactsModal, 
+            showProjectsModal, 
+            setShowProjectsModal
         }}> 
             {children}
         </AppContext.Provider>
