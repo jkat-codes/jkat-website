@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jkat-website/static/css/main.5f25aa95.css",
-    "main.js": "/jkat-website/static/js/main.85d82c81.js",
+    "main.css": "/jkat-website/static/css/main.c6b687c6.css",
+    "main.js": "/jkat-website/static/js/main.fe047d67.js",
     "static/media/Address Book.png": "/jkat-website/static/media/Address Book.67af1167483a43ba982e.png",
     "static/media/Chess.png": "/jkat-website/static/media/Chess.f6c52cf551396429daf7.png",
     "static/media/Calendar.png": "/jkat-website/static/media/Calendar.8e2f93b2c966784609ad.png",
@@ -29,11 +29,11 @@
     "static/media/1-close-1-normal.svg": "/jkat-website/static/media/1-close-1-normal.1c36b5f2347558d360e883a71b5a79b7.svg",
     "static/media/2-minimize-1-normal.svg": "/jkat-website/static/media/2-minimize-1-normal.f23184775d97aeb88158d354c287d318.svg",
     "static/media/3-maximize-1-normal.svg": "/jkat-website/static/media/3-maximize-1-normal.b36c0b74a72ee435b28b4f2831af4863.svg",
-    "main.5f25aa95.css.map": "/jkat-website/static/css/main.5f25aa95.css.map",
-    "main.85d82c81.js.map": "/jkat-website/static/js/main.85d82c81.js.map"
+    "main.c6b687c6.css.map": "/jkat-website/static/css/main.c6b687c6.css.map",
+    "main.fe047d67.js.map": "/jkat-website/static/js/main.fe047d67.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f25aa95.css",
-    "static/js/main.85d82c81.js"
+    "static/css/main.c6b687c6.css",
+    "static/js/main.fe047d67.js"
   ]
 }
