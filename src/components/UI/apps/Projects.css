@@ -4,3 +4,27 @@
     box-sizing: border-box;
 }
 
+
+.ProjectsContainer {
+    width: 661px; 
+    height: 441px; 
+    background-color: rgb(54, 54, 55);
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+    resize: both; 
+    overflow: auto; 
+}
+
+
+.ProjectsMainContainer {
+    width: 100%; 
+    height: 100%; 
+    padding: 10px; 
+    color: white; 
+    font-family: helvetica;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}

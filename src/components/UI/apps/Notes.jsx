@@ -30,6 +30,7 @@ export function Notes({position, onMouseDown}) {
             </div>
             <div className="NotesMainContent">
                 <span>Welcome! My name is Jasper Katalevsky. I am an aspiring financial technology engineer.</span>
+                <span>I am currently a Sophomore Computer Science and Engineering student at Bucknell University</span>
             </div>
         </div>
     )
