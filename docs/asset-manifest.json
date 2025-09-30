@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/jkat-website/static/css/main.5f25aa95.css",
+    "main.js": "/jkat-website/static/js/main.85d82c81.js",
+    "static/media/Address Book.png": "/jkat-website/static/media/Address Book.67af1167483a43ba982e.png",
+    "static/media/Chess.png": "/jkat-website/static/media/Chess.f6c52cf551396429daf7.png",
+    "static/media/Calendar.png": "/jkat-website/static/media/Calendar.8e2f93b2c966784609ad.png",
+    "static/media/Preview.png": "/jkat-website/static/media/Preview.ea506452ce078965bc06.png",
+    "static/media/Documents.png": "/jkat-website/static/media/Documents.597df9b05e87b939ee1c.png",
+    "static/media/Podcasts.png": "/jkat-website/static/media/Podcasts.18c9518e0d9015e1b7ab.png",
+    "static/media/App Store.png": "/jkat-website/static/media/App Store.88dfe07c196935e7a80b.png",
+    "static/media/Photos.png": "/jkat-website/static/media/Photos.d28caaa8cc935cb4b232.png",
+    "static/media/Mail.png": "/jkat-website/static/media/Mail.73db8a3bdc11084eb4a8.png",
+    "static/media/Finder.png": "/jkat-website/static/media/Finder.3adc3d549a352854ef0c.png",
+    "static/media/background.jpeg": "/jkat-website/static/media/background.3edd5e248fe6f62f7cf4.jpeg",
+    "static/media/FaceTime.png": "/jkat-website/static/media/FaceTime.4bbea984a474a64968dd.png",
+    "static/media/Apple TV.png": "/jkat-website/static/media/Apple TV.3da6fafb8ed28babeb56.png",
+    "static/media/Safari.png": "/jkat-website/static/media/Safari.e0fdc1ed87341cf8479c.png",
+    "static/media/Notes.png": "/jkat-website/static/media/Notes.181821b590833d410299.png",
+    "static/media/Messages.png": "/jkat-website/static/media/Messages.5dd9daca5e509e9aff5b.png",
+    "static/media/Maps.png": "/jkat-website/static/media/Maps.a4de0f2647274da26b97.png",
+    "static/media/Launchpad.png": "/jkat-website/static/media/Launchpad.3ac88875fc5606b91d10.png",
+    "static/media/Reminders.png": "/jkat-website/static/media/Reminders.a9bbc0506456f90146ac.png",
+    "static/media/Music.png": "/jkat-website/static/media/Music.58e58892a52a2d9c1a41.png",
+    "static/media/News.png": "/jkat-website/static/media/News.7ad30afdcc98266fcb37.png",
+    "static/media/Generic Document.png": "/jkat-website/static/media/Generic Document.dabbe3f949d49e647c1e.png",
+    "static/media/Terminal.png": "/jkat-website/static/media/Terminal.9c78fa2f21c53ce31b8a.png",
+    "index.html": "/jkat-website/index.html",
+    "static/media/1-close-1-normal.svg": "/jkat-website/static/media/1-close-1-normal.1c36b5f2347558d360e883a71b5a79b7.svg",
+    "static/media/2-minimize-1-normal.svg": "/jkat-website/static/media/2-minimize-1-normal.f23184775d97aeb88158d354c287d318.svg",
+    "static/media/3-maximize-1-normal.svg": "/jkat-website/static/media/3-maximize-1-normal.b36c0b74a72ee435b28b4f2831af4863.svg",
+    "main.5f25aa95.css.map": "/jkat-website/static/css/main.5f25aa95.css.map",
+    "main.85d82c81.js.map": "/jkat-website/static/js/main.85d82c81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f25aa95.css",
+    "static/js/main.85d82c81.js"
+  ]
+}
