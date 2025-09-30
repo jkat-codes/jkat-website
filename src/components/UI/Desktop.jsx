@@ -15,7 +15,7 @@ export function Desktop() {
     const {showNotesModal, setShowNotesModal, showContactsModal, setShowContactsModal, showProjectsModal, setShowProjectsModal} = useApp(); 
     const [items, setItems] = useState([
         {id: 1, iconUrl: DocumentsIcon, text: "Projects", x: 21, y: 20 }, 
-        {id: 2, iconUrl: TextIcon, text: "About Me", x: 18, y: 81}, 
+        {id: 2, iconUrl: TextIcon, text: "About Me", x: 800, y: 600}, 
         {id: 3, iconUrl: ContactsIcon, text: "Contact Me", x: 13, y: 142}, 
     ])
     const [modalPositions, setModalPositions] = useState({
