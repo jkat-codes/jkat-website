@@ -29,7 +29,7 @@ export function Project({position, onMouseDown}) {
                 <img src={maximizeIcon} alt="" className="maximizeIcon" />
             </div>
             <div className="ProjectsMainContainer">
-                <span>Coming Soon!</span>
+                <span>Projects Coming Soon!</span>
             </div>
         </div>
     )
