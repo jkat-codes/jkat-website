@@ -8,7 +8,6 @@
 .ProjectsContainer {
     width: 661px; 
     height: 441px; 
-    background-color: rgb(54, 54, 55);
     display: flex; 
     flex-direction: column;
     align-items: center;
@@ -21,10 +20,27 @@
 .ProjectsMainContainer {
     width: 100%; 
     height: 100%; 
-    padding: 10px; 
     color: white; 
     font-family: helvetica;
     display: flex; 
     justify-content: center;
     align-items: center;
+    display: flex; 
+}
+
+.ProjectsSidebar {
+    margin-right: auto; 
+    width: 35%; 
+    position: relative; 
+    height: 100%; 
+    background-color: rgba(45, 45, 45, 0.3);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+
+.ProjectsMainContent {
+    width: 65%; 
+    height: 100%; 
+    position: relative; 
+    background-color: rgb(54, 54, 55);
 }

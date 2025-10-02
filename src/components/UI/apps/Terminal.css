@@ -1,0 +1,22 @@
+*, ::after, ::before {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+.TerminalContainer {
+    width: 661px; 
+    height: 441px; 
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+}
+
+.TerminalMainContainer {
+    height: 100%; 
+    width: 100%; 
+    background: black; 
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
